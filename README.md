@@ -1,4 +1,4 @@
-#Full Stack Javascript Course
+#Full Stack Javascript
 
 I'm familiar with most of the skills here except Node.js and Angular.  
 I decided to start from the begining anyways to re-inforce and refresh material.  
