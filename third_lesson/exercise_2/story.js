@@ -1,0 +1,12 @@
+var questions = 3;
+var questionsLeft = '[' + questions + ' questions left]';
+var adjective = prompt('Please type an adjective ' + questionsLeft);
+questions -= 1;
+var verb = prompt('Please type a verb ' + questions + ' questions left');
+questions -= 1;
+var noun = prompt('Please type a noun ' + questions + ' questionsleft');
+alert('All done. Ready for the message?');
+var sentence = "<h2>There once was a " + adjective;
+sentence += ' programmer who wanted to use JavaScript to ' + verb;
+sentence += ' the ' + noun + '.</h2>';
+document.write(sentence);
