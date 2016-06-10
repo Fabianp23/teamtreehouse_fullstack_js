@@ -7,7 +7,7 @@ I will be posting dates as I complete the sections.
 *Began June 7, 2016*
 
 ####Topics Covered in the Course
-* JavaScript Basics
+* JavaScript Basics *Completed 6/10/2016*
 * JavaScripts Loops, Arrays and Objects
 * jQuery Plugins
 * Interactive Web Pages with JavaScript
