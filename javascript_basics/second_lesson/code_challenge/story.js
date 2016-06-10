@@ -1,0 +1,12 @@
+alert('Welcome!');
+var firstName = prompt('What is your first name?');
+var lastName = prompt('What is your last name?');
+var description = prompt('Describe yourself in one word?');
+var message = 'It\'s nice to meet you ';
+message += firstName;
+message += ' ';
+message += lastName;
+message += ', who thinks of himself as ';
+message += description;
+message += '.';
+document.write(message);
