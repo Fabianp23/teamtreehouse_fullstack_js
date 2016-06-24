@@ -9,6 +9,7 @@ I will be posting dates as I complete the sections.
 ####Topics Covered in the Course
 * JavaScript Basics *```Completed 6/10/2016```*
 * JavaScripts Loops, Arrays and Objects *```Completed 6/15/2016```*
+* jQuery Basics
 * jQuery Plugins
 * Interactive Web Pages with JavaScript
 * AJAX Basics
