@@ -10,7 +10,7 @@ I will be posting dates as I complete the sections.
 * JavaScript Basics *```Completed 6/10/2016```*
 * JavaScripts Loops, Arrays and Objects *```Completed 6/15/2016```*
 * jQuery Basics *```Completed 6/24/2016```*
-* jQuery Plugins
+* jQuery Plugins *```Completed 7/5/2016```*
 * Interactive Web Pages with JavaScript
 * AJAX Basics
 * Understanding 'this' in JavaScript
