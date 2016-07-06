@@ -13,7 +13,7 @@ I will be posting dates as I complete the sections.
 * jQuery Plugins *```Completed 7/5/2016```*
 * Interactive Web Pages with JavaScript *```Completed 7/6/2016```*
 * AJAX Basics
-* Understanding 'this' in JavaScript
+* Understanding 'this' in JavaScript *```Completed 7/6/2016```*
 * Object-Oriented Javascript
 * The Module Pattern in Jacascript
 * Node.js Basics
