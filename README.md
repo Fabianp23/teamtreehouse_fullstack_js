@@ -11,7 +11,7 @@ I will be posting dates as I complete the sections.
 * JavaScripts Loops, Arrays and Objects *```Completed 6/15/2016```*
 * jQuery Basics *```Completed 6/24/2016```*
 * jQuery Plugins *```Completed 7/5/2016```*
-* Interactive Web Pages with JavaScript
+* Interactive Web Pages with JavaScript *```Completed 7/6/2016```*
 * AJAX Basics
 * Understanding 'this' in JavaScript
 * Object-Oriented Javascript
