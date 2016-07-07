@@ -4,7 +4,7 @@ I'm familiar with most of the skills here except Node.js and Angular.
 I decided to start from the begining anyways to re-inforce and refresh material.  
 I will be posting dates as I complete the sections.
 
-*Began June 7, 2016*
+*```Began June 7, 2016```*
 
 ####Topics Covered in the Course
 * JavaScript Basics *```Completed 6/10/2016```*
