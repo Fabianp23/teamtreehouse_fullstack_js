@@ -16,7 +16,7 @@ I will be posting dates as I complete the sections.
 * Understanding 'this' in JavaScript *```Completed 7/6/2016```*
 * Object-Oriented Javascript
 * The Module Pattern in Jacascript
-* Node.js Basics
+* Node.js Basics *```Completed 7/11/2016```*
 * Build a simple dynamic website with Node.js
 * npm Basics
 * Using npm as a Task Runner
