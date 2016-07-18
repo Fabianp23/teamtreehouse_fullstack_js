@@ -23,7 +23,7 @@ I will be posting dates as I complete the sections.
 * Git Basics
 * Express Basics
 * Gulp Basics
-* Angular Basics
+* Angular Basics *```Completed 7/18/2016```*
 * Mongo Basics
 * Building a MEAN Application
 * JavaScript Unit Testing
